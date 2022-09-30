@@ -1,0 +1,9 @@
+BaccaratGameLogic.class
+BaccaratInfo.class
+Server$ClientThread.class
+BaccaratGame$BaccaratDealer.class
+Server$ServerThread.class
+Server.class
+BaccaratGame.class
+Card.class
+JavaFXTemplate.class
